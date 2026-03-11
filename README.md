@@ -18,6 +18,7 @@
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **cutting-edge MERN stack applications & Next.js projects**
+- 🏢 I have built and contributed to **CRM Systems, SaaS Products, Admin Panels, HRMS Portals, E-Commerce Platforms, and Business Management Portals**
 - 🌱 I’m currently deepening my knowledge in **System Design and Advanced React Patterns**
 - 👯 I’m looking to collaborate on **Open Source Projects & Innovative Startups**
 - 💬 Ask me about **MongoDB, Express, React, Node.js, Next.js, and E-commerce (Shopify/WP)**
